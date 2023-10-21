@@ -129,7 +129,7 @@ Recipe directory
 Help center
 Privacy & terms
 
-#####
+######
 
 ## Sections
 
@@ -137,8 +137,8 @@ Privacy & terms
 - Hero
 - Featured in
 - How it works
-- Meals (and lists of diets)
-- Testimonials + Gallery
-- Pricing + Features
+- Meals (and list of diets)
+- Testimonials + gallery
+- Pricing + features
 - CTA
 - Footer
